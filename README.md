@@ -1,2 +1,2 @@
 # Breast-Cancer-Diagnosis
-First project of my college session
+A Machine learning project to predict wheather a woman is Malignant or Benign
